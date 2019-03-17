@@ -1,0 +1,2 @@
+a = "Pluton jest planetą"
+print(a.index())
